@@ -1,0 +1,1 @@
+File yang digunakan index.html, style.css, highchart.js
